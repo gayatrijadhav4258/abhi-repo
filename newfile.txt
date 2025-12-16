@@ -1,4 +1,5 @@
-hello abhijeet this is me alpesh
-I have updated this code 
-thank you 
-have agreat day
+Hello,
+This is Gayatri Jadhav.
+I have updated this file to practice pull request.
+Thank you!
+
